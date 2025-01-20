@@ -1,39 +1,39 @@
 # health-kgraph-llm
 A repository for a research project on health-related knowledge graph, LLM, and social media data
 
-## Introduction
+## 1. Introduction
 
 
-## Literature Review
+## 2. Literature Review
 
 <https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks>
 
 [Paperpile](https://paperpile.com/shared/LLM-data-poisoning-fyVnJRP5pR~6g31bFg~fBQg) 
 
-## Methods
+## 3. Methods
 
-### Data Source
+### 3.1 Data Source
 
 
-### Tools
+### 3.2 Tools
 
 * Chroma -- storage solution for knowledge graph used in [Alber et al.](https://www.nature.com/articles/s41591-024-03445-1):
     * <https://github.com/chroma-core/chroma> 
 
-### Pre-trained Twitter Bert Models
+### 3.3 Pre-trained Twitter Bert Models
 * [twhin-bert-base](https://huggingface.co/Twitter/twhin-bert-base)
 * [twhin-bert-large](https://huggingface.co/Twitter/twhin-bert-large)
 <https://huggingface.co/Twitter> 
 
-### Workflow 
+### 3.4 Workflow 
 
 
 
-## Results
+## 4. Results
 
 
 
-## Discussion
+## 5. Discussion
 
 
 ## Reference
