@@ -15,7 +15,7 @@ A repository for a research project on health-related knowledge graph, LLM, and 
 
 ### Tools
 
-**Storage solution for knowledge graph used in **: <https://github.com/chroma-core/chroma> 
+* Chroma used as a storage solution for knowledge graph used in [Alber et al.](https://www.nature.com/articles/s41591-024-03445-1): <https://github.com/chroma-core/chroma> 
 
 
 ### Workflow 
