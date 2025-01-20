@@ -8,6 +8,8 @@ A repository for a research project on health-related knowledge graph, LLM, and 
 
 <https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks>
 
+[Paperpile](https://paperpile.com/shared/LLM-data-poisoning-fyVnJRP5pR~6g31bFg~fBQg) 
+
 ## Methods
 
 ### Data Source
