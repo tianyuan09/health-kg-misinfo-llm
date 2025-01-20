@@ -17,7 +17,8 @@ A repository for a research project on health-related knowledge graph, LLM, and 
 
 ### Tools
 
-* Chroma used as a storage solution for knowledge graph used in [Alber et al.](https://www.nature.com/articles/s41591-024-03445-1): <https://github.com/chroma-core/chroma> 
+* Chroma -- storage solution for knowledge graph used in [Alber et al.](https://www.nature.com/articles/s41591-024-03445-1):
+    * <https://github.com/chroma-core/chroma> 
 
 ### Pre-trained Twitter Bert Models
 * [twhin-bert-base](https://huggingface.co/Twitter/twhin-bert-base)
