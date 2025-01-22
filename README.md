@@ -23,7 +23,6 @@ A repository for a research project on health-related knowledge graph, LLM, and 
 ### 3.3 Pre-trained Twitter Bert Models
 * [twhin-bert-base](https://huggingface.co/Twitter/twhin-bert-base)
 * [twhin-bert-large](https://huggingface.co/Twitter/twhin-bert-large)
-<https://huggingface.co/Twitter> 
 
 ### 3.4 Workflow 
 
