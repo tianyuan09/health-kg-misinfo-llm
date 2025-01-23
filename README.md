@@ -8,7 +8,7 @@ A repository for a research project on health-related misinformation, LLM, poiso
 
 <https://github.com/penghui-yang/awesome-data-poisoning-and-backdoor-attacks>
 
-[Paperpile](https://paperpile.com/shared/LLM-data-poisoning-fyVnJRP5pR~6g31bFg~fBQg) 
+[Paperpile](https://paperpile.com/shared/LLM-data-poisoning-fyVnJRP5pR~6g31bFg~fBQg) -- last updated Jan 23, 2025.
 
 ## 3. Methods
 
