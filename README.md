@@ -14,6 +14,10 @@ A repository for a research project on health-related misinformation, LLM, poiso
 
 ### 3.1 Data Source
 
+[COVIDLies](https://github.com/ucinlp/covid19-data) -- Annotated
+   * Hossain, T.; Logan, R.L., IV; Ugarte, A.; Matsubara, Y.; Young, S.; Singh, S. COVIDLies: Detecting COVID-19 Misinformation on Social Media. In Proceedings of the Workshop on NLP for COVID-19 (Part 2) at EMNLP 2020; September 4 2020. [[Paper](https://openreview.net/forum?id=FCna-s-ZaIE)] [[Data](https://github.com/ucinlp/covid19-data)]
+   * Rizvi, S. Misinformation Retrieval. Master Thesis. University of Waterloo, ON, Canada 2021. [[Paper](https://uwspace.uwaterloo.ca/items/868363d0-ab6a-480e-a8dd-4ce810a63597)] 
+
 
 ### 3.2 Tools
 
