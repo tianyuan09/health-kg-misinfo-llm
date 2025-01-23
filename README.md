@@ -31,6 +31,7 @@ A repository for a research project on health-related misinformation, LLM, poiso
 
 PrimeKG is an **Off-the-shelf Medical KG** maintained by Harvard University. 
   * Chandak, P.; Huang, K.; Zitnik, M. Building a Knowledge Graph to Enable Precision Medicine. Sci. Data 2023, 10, 67, doi:10.1038/s41597-023-01960-3. [[Paper](https://www.nature.com/articles/s41597-023-01960-3)] [[Github](https://github.com/mims-harvard/PrimeKG)] [[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM)]
+  *   * Chandak, P.; Huang, K.; Zitnik, M. Building a Knowledge Graph to Enable Precision Medicine. Sci. Data 2023, 10, 67, doi:10.1038/s41597-023-01960-3. [[Paper](https://www.nature.com/articles/s41597-023-01960-3)] [[Github](https://github.com/mims-harvard/PrimeKG)] [[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM)]  -- ***Used PrimeKG for data poisoning attack***
   
 
 ## 4. Results
@@ -43,6 +44,8 @@ PrimeKG is an **Off-the-shelf Medical KG** maintained by Harvard University.
 ## Reference
 
 [Paperpile](https://paperpile.com/shared/LLM-data-poisoning-fyVnJRP5pR~6g31bFg~fBQg) 
+
+* Chandak, P.; Huang, K.; Zitnik, M. Building a Knowledge Graph to Enable Precision Medicine. Sci. Data 2023, 10, 67, doi:10.1038/s41597-023-01960-3. [[Paper](https://www.nature.com/articles/s41597-023-01960-3)] [[Github](https://github.com/mims-harvard/PrimeKG)] [[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM)]
 
 * Yang, P. Awesome-Data-Poisoning-and-Backdoor-Attacks: A Curated List of Papers & Resources Linked to Data Poisoning, Backdoor Attacks and Defenses against Them (No Longer Maintained); Github;
 
