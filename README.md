@@ -14,10 +14,9 @@ A repository for a research project on health-related misinformation, LLM, poiso
 
 ### 3.1 Data Source
 
-[COVIDLies](https://github.com/ucinlp/covid19-data) -- Annotated
+#### 3.1.1 [COVIDLies](https://github.com/ucinlp/covid19-data) -- Annotated
    * Hossain, T.; Logan, R.L., IV; Ugarte, A.; Matsubara, Y.; Young, S.; Singh, S. COVIDLies: Detecting COVID-19 Misinformation on Social Media. In Proceedings of the Workshop on NLP for COVID-19 (Part 2) at EMNLP 2020; September 4 2020. [[Paper](https://openreview.net/forum?id=FCna-s-ZaIE)] [[Data](https://github.com/ucinlp/covid19-data)]
-   * Rizvi, S. Misinformation Retrieval. Master Thesis. University of Waterloo, ON, Canada 2021. [[Paper](https://uwspace.uwaterloo.ca/items/868363d0-ab6a-480e-a8dd-4ce810a63597)] 
-
+   * Rizvi, S. Misinformation Retrieval. Master Thesis. University of Waterloo, ON, Canada 2021. [[Paper](https://uwspace.uwaterloo.ca/items/868363d0-ab6a-480e-a8dd-4ce810a63597)] -- This study used COVIDLies
 
 ### 3.2 Tools
 
@@ -28,8 +27,11 @@ A repository for a research project on health-related misinformation, LLM, poiso
 * [twhin-bert-base](https://huggingface.co/Twitter/twhin-bert-base)
 * [twhin-bert-large](https://huggingface.co/Twitter/twhin-bert-large)
 
-### 3.4 Workflow 
+### 3.4 Precision Medicine Knowledge Graph (PrimeKG)
 
+PrimeKG is an **Off-the-shelf Medical KG** maintained by Harvard University. 
+  * Chandak, P.; Huang, K.; Zitnik, M. Building a Knowledge Graph to Enable Precision Medicine. Sci. Data 2023, 10, 67, doi:10.1038/s41597-023-01960-3. [Paper](https://www.nature.com/articles/s41597-023-01960-3)] [[Github](https://github.com/mims-harvard/PrimeKG)] [[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM)]
+  
 
 
 ## 4. Results
@@ -51,4 +53,8 @@ A repository for a research project on health-related misinformation, LLM, poiso
 
 * Kurita, K.; Michel, P.; Neubig, G. Weight Poisoning Attacks on Pre-Trained Models. arXiv [cs.LG] 2020.
   
+## Out-of-date Stuff
+
+
+
 
