@@ -45,6 +45,7 @@ PrimeKG is an **Off-the-shelf Medical KG** maintained by Harvard University.
 [Paperpile](https://paperpile.com/shared/LLM-data-poisoning-fyVnJRP5pR~6g31bFg~fBQg) 
 
 * Chandak, P.; Huang, K.; Zitnik, M. Building a Knowledge Graph to Enable Precision Medicine. Sci. Data 2023, 10, 67, doi:10.1038/s41597-023-01960-3. [[Paper](https://www.nature.com/articles/s41597-023-01960-3)] [[Github](https://github.com/mims-harvard/PrimeKG)] [[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM)]
+* Yang, J.; Xu, H.; Mirzoyan, S.; Chen, T.; Liu, Z.; Liu, Z.; Ju, W.; Liu, L.; Xiao, Z.; Zhang, M.; et al. Poisoning Medical Knowledge Using Large Language Models. Nat. Mach. Intell. 2024, 6, 1156–1168, doi:10.1038/s42256-024-00899-3.
 
 * Yang, P. Awesome-Data-Poisoning-and-Backdoor-Attacks: A Curated List of Papers & Resources Linked to Data Poisoning, Backdoor Attacks and Defenses against Them (No Longer Maintained); Github;
 
