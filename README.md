@@ -1,4 +1,4 @@
-# health-misinfo-llm
+# health-kg-misinfo-llm
 A repository for a research project on health-related misinformation, LLM, poison attack on social media data
 
 ## 1. Introduction
