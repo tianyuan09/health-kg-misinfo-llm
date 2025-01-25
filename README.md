@@ -33,7 +33,7 @@ PrimeKG is an **Off-the-shelf Medical KG** maintained by Harvard University.
   *   * Chandak, P.; Huang, K.; Zitnik, M. Building a Knowledge Graph to Enable Precision Medicine. Sci. Data 2023, 10, 67, doi:10.1038/s41597-023-01960-3. [[Paper](https://www.nature.com/articles/s41597-023-01960-3)] [[Github](https://github.com/mims-harvard/PrimeKG)] [[Dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM)]  -- ***Used PrimeKG for data poisoning attack***
 
 ### 3.5 Attacking Bert: Weight Poisoning Attacks on Pre-Trained Models 
- [Weight Poisoning Attacks on Pre-trained Models](https://github.com/huggingface/awesome-papers/discussions/8)
+*  [Weight Poisoning Attacks on Pre-trained Models](https://github.com/huggingface/awesome-papers/discussions/8) -- ***An interesting read with Colab code***
 
 ## 4. Results
 
