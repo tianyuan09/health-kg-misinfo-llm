@@ -25,6 +25,7 @@ A repository for a research project on health-related misinformation, LLM, poiso
 ### 3.3 Pre-trained Twitter Bert Models
 * [twhin-bert-base](https://huggingface.co/Twitter/twhin-bert-base)
 * [twhin-bert-large](https://huggingface.co/Twitter/twhin-bert-large)
+* [TwHIN-BERT-Misinformation-Classifier](https://huggingface.co/roupenminassian/TwHIN-BERT-Misinformation-Classifier)
 
 ### 3.4 Precision Medicine Knowledge Graph (PrimeKG)
 
