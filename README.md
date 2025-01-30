@@ -10,6 +10,8 @@ A repository for a research project on health-related misinformation, LLM, poiso
 
 [Paperpile](https://paperpile.com/shared/LLM-data-poisoning-fyVnJRP5pR~6g31bFg~fBQg) -- last updated Jan 23, 2025.
 
+[BERT-LSTM hybrid model for Social Media Networks Digital Literacy](https://www.nature.com/articles/s41598-025-85308-4)
+
 ## 3. Methods
 
 ### 3.1 Data Source
