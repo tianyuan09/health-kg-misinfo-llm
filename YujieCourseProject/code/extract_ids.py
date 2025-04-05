@@ -11,6 +11,9 @@ output_folder = "/Users/yujie/Documents/advanceddeeplearning828/health-kg-misinf
 # Ensure output folder exists
 os.makedirs(output_folder, exist_ok=True)
 
+print("Running twarc2 configure...")
+subprocess.run(["twarc2", "configure"], check=True)
+
 # Loop over all JSONL files in the input folder
 for filename in os.listdir(input_folder):
     if filename.endswith(".jsonl"):
